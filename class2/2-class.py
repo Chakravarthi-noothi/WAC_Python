@@ -41,3 +41,8 @@ n=int(input())
 for i in range (1,n) :
     sum+=i**2
 print(sum)
+
+"""
+Added with editing in Git
+
+"""
